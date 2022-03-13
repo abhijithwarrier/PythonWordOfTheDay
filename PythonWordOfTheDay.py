@@ -2,8 +2,7 @@
 
 # PYTHON GUI TO GET WORD OF THE DAY FROM MERRIAM-WEBSTER'S RSS FEED
 
-# In this script, a request is sent to the RSS Feed http://www.merriam-webster.com/wotd/feed/rss2 from which
-# RSS output is fetched and parsed
+# In this script, a request is sent to the RSS Feed http://www.merriam-webster.com/wotd/feed/rss2 from which RSS output is fetched and parsed
 
 # Importing necessary packages
 import feedparser
